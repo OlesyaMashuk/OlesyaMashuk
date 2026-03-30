@@ -1,8 +1,7 @@
 ### 👋 Hi there, my name is Olesya
 
 - 🔍 I’m a QA engineer (online course certificate SkillFactory, certificate Aston)
-- 💼 I’m a mentor on an online course WillSkill
-- 🌱 I’m studying test automation
+- 💼 I’m studying test automation
 - 📈 I’m work with tools: GitBash, Postman, DevTools, Jira, Android Studio, Confluence, Swagger, Selenium, TestIT;
 - 💬 My contacts for communication [E-mail](olmashuk@yandex.ru) | [Linkedin](https://www.linkedin.com/in/olesya-mashukova/) | [Telegram](https://t.me/lemashuk)
  
